@@ -1,0 +1,1430 @@
+fileFormatVersion: 2
+guid: e4c7393c80d8016459b5223263b66470
+TextureImporter:
+  internalIDToNameTable:
+  - first:
+      213: -4879378953298876006
+    second: enviro(nobck)_0
+  - first:
+      213: 6749117059846018196
+    second: enviro(nobck)_1
+  - first:
+      213: 4846027132191945056
+    second: enviro(nobck)_2
+  - first:
+      213: -3859889819124865726
+    second: enviro(nobck)_3
+  - first:
+      213: -1246528092770064344
+    second: enviro(nobck)_4
+  - first:
+      213: 2177047277177597772
+    second: enviro(nobck)_5
+  - first:
+      213: 1446729679426832947
+    second: enviro(nobck)_6
+  - first:
+      213: -4737827909895329563
+    second: enviro(nobck)_7
+  - first:
+      213: 6493033858171793926
+    second: enviro(nobck)_8
+  - first:
+      213: 8099524281934209496
+    second: enviro(nobck)_9
+  - first:
+      213: 7919022351873791805
+    second: enviro(nobck)_10
+  - first:
+      213: 5607057688572165432
+    second: enviro(nobck)_11
+  - first:
+      213: 7471286509622728612
+    second: enviro(nobck)_12
+  - first:
+      213: 409709827935056771
+    second: enviro(nobck)_13
+  - first:
+      213: -3296034996223288162
+    second: enviro(nobck)_14
+  - first:
+      213: 3825462580075423537
+    second: enviro(nobck)_15
+  - first:
+      213: 3124957536612587587
+    second: enviro(nobck)_16
+  - first:
+      213: 8953669713988983793
+    second: enviro(nobck)_17
+  - first:
+      213: -1319998106887592949
+    second: enviro(nobck)_18
+  - first:
+      213: -3094257951508399371
+    second: enviro(nobck)_19
+  - first:
+      213: -908040504081280523
+    second: enviro(nobck)_20
+  - first:
+      213: -2343887666895577162
+    second: enviro(nobck)_21
+  - first:
+      213: -413079990857602066
+    second: enviro(nobck)_22
+  - first:
+      213: -3231335823215228781
+    second: enviro(nobck)_23
+  - first:
+      213: -949004028396634550
+    second: enviro(nobck)_24
+  - first:
+      213: -4626280387056567122
+    second: enviro(nobck)_25
+  - first:
+      213: -8104648517136828012
+    second: enviro(nobck)_26
+  - first:
+      213: -7082476836917134130
+    second: enviro(nobck)_27
+  - first:
+      213: 1110432962569761872
+    second: enviro(nobck)_28
+  - first:
+      213: 4713456440632671730
+    second: enviro(nobck)_29
+  - first:
+      213: -2604958293720231228
+    second: enviro(nobck)_30
+  - first:
+      213: 9067117915036940629
+    second: enviro(nobck)_31
+  - first:
+      213: 4093363327655575676
+    second: enviro(nobck)_32
+  - first:
+      213: -24119193514274222
+    second: enviro(nobck)_33
+  - first:
+      213: 8702271879717355661
+    second: enviro(nobck)_34
+  - first:
+      213: -8745777895330784899
+    second: enviro(nobck)_35
+  - first:
+      213: 5046411084814614003
+    second: enviro(nobck)_36
+  - first:
+      213: 2543847422088592923
+    second: enviro(nobck)_37
+  - first:
+      213: -4874506686842878439
+    second: enviro(nobck)_38
+  - first:
+      213: -4688285001079221712
+    second: enviro(nobck)_39
+  - first:
+      213: -3042686966462166577
+    second: enviro(nobck)_40
+  - first:
+      213: 8827721812198540589
+    second: enviro(nobck)_41
+  - first:
+      213: 7963428731582034305
+    second: enviro(nobck)_42
+  - first:
+      213: -3764796241157459077
+    second: enviro(nobck)_43
+  - first:
+      213: 7051299608570371054
+    second: enviro(nobck)_44
+  - first:
+      213: -1236743705919602962
+    second: enviro(nobck)_45
+  - first:
+      213: -723672429868114466
+    second: enviro(nobck)_46
+  - first:
+      213: 5988323751970735128
+    second: enviro(nobck)_47
+  - first:
+      213: -7770357320786334450
+    second: enviro(nobck)_48
+  - first:
+      213: -5392566388719181480
+    second: enviro(nobck)_49
+  externalObjects: {}
+  serializedVersion: 13
+  mipmaps:
+    mipMapMode: 0
+    enableMipMap: 0
+    sRGBTexture: 1
+    linearTexture: 0
+    fadeOut: 0
+    borderMipMap: 0
+    mipMapsPreserveCoverage: 0
+    alphaTestReferenceValue: 0.5
+    mipMapFadeDistanceStart: 1
+    mipMapFadeDistanceEnd: 3
+  bumpmap:
+    convertToNormalMap: 0
+    externalNormalMap: 0
+    heightScale: 0.25
+    normalMapFilter: 0
+    flipGreenChannel: 0
+  isReadable: 0
+  streamingMipmaps: 0
+  streamingMipmapsPriority: 0
+  vTOnly: 0
+  ignoreMipmapLimit: 0
+  grayScaleToAlpha: 0
+  generateCubemap: 6
+  cubemapConvolution: 0
+  seamlessCubemap: 0
+  textureFormat: 1
+  maxTextureSize: 2048
+  textureSettings:
+    serializedVersion: 2
+    filterMode: 1
+    aniso: 1
+    mipBias: 0
+    wrapU: 1
+    wrapV: 1
+    wrapW: 1
+  nPOTScale: 0
+  lightmap: 0
+  compressionQuality: 50
+  spriteMode: 2
+  spriteExtrude: 1
+  spriteMeshType: 1
+  alignment: 0
+  spritePivot: {x: 0.5, y: 0.5}
+  spritePixelsToUnits: 100
+  spriteBorder: {x: 0, y: 0, z: 0, w: 0}
+  spriteGenerateFallbackPhysicsShape: 1
+  alphaUsage: 1
+  alphaIsTransparency: 1
+  spriteTessellationDetail: -1
+  textureType: 8
+  textureShape: 1
+  singleChannelComponent: 0
+  flipbookRows: 1
+  flipbookColumns: 1
+  maxTextureSizeSet: 0
+  compressionQualitySet: 0
+  textureFormatSet: 0
+  ignorePngGamma: 0
+  applyGammaDecoding: 0
+  swizzle: 50462976
+  cookieLightType: 0
+  platformSettings:
+  - serializedVersion: 4
+    buildTarget: DefaultTexturePlatform
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: Standalone
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  - serializedVersion: 4
+    buildTarget: WebGL
+    maxTextureSize: 2048
+    resizeAlgorithm: 0
+    textureFormat: -1
+    textureCompression: 1
+    compressionQuality: 50
+    crunchedCompression: 0
+    allowsAlphaSplitting: 0
+    overridden: 0
+    ignorePlatformSupport: 0
+    androidETC2FallbackOverride: 0
+    forceMaximumCompressionQuality_BC6H_BC7: 0
+  spriteSheet:
+    serializedVersion: 2
+    sprites:
+    - serializedVersion: 2
+      name: enviro(nobck)_0
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 507
+        width: 239
+        height: 112
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7d5c05e4a1d99fe48b720c9a0962a30f
+      internalID: -1113604655
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_1
+      rect:
+        serializedVersion: 2
+        x: 274
+        y: 507
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f22ef5599f22e974aae0ed456eda9a7a
+      internalID: 194569086
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_2
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 435
+        width: 240
+        height: 168
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: f23acb7d6de68a74dafc0fb4aa415edc
+      internalID: -769608378
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_3
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 507
+        width: 360
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a9cb2e358f5c1784484175620dcbf13c
+      internalID: -962699842
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_4
+      rect:
+        serializedVersion: 2
+        x: 33
+        y: 442
+        width: 36
+        height: 33
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d37e3d96e2b9ffb47bcaf3b719b94bcb
+      internalID: -561013027
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_5
+      rect:
+        serializedVersion: 2
+        x: 70
+        y: 442
+        width: 34
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 58f14353b87237d4bbcd939fe01731b6
+      internalID: 52203563
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_6
+      rect:
+        serializedVersion: 2
+        x: 105
+        y: 442
+        width: 38
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 049e40542fffc2a44880a3b86414b836
+      internalID: -460319120
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_7
+      rect:
+        serializedVersion: 2
+        x: 144
+        y: 442
+        width: 18
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fec9eafc84fd24e44af0c1efbc86dfc4
+      internalID: -137277436
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_8
+      rect:
+        serializedVersion: 2
+        x: 153
+        y: 444
+        width: 53
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 193886587f92fc74285513103effb99e
+      internalID: 1426271683
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_9
+      rect:
+        serializedVersion: 2
+        x: 207
+        y: 442
+        width: 31
+        height: 51
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 624f2d5bcf2ff794b998361d23e89230
+      internalID: -1673938161
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_10
+      rect:
+        serializedVersion: 2
+        x: 239
+        y: 442
+        width: 53
+        height: 38
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d17f48e2f46822b428e4dc6a1b1abfb1
+      internalID: -980350659
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_11
+      rect:
+        serializedVersion: 2
+        x: 293
+        y: 445
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: daa3e72f6b0747949bfab1e64572f37c
+      internalID: 1707272214
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_12
+      rect:
+        serializedVersion: 2
+        x: 300
+        y: 442
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5f4b88cbf6dafca429bd6d30a0fd0b31
+      internalID: -1578441074
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_13
+      rect:
+        serializedVersion: 2
+        x: 325
+        y: 442
+        width: 50
+        height: 43
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 5bf427080106d7a4a9f68cd85798ea29
+      internalID: 697026878
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_14
+      rect:
+        serializedVersion: 2
+        x: 376
+        y: 445
+        width: 5
+        height: 4
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d5d4ac3694db0cb42864fb6bcf33975c
+      internalID: -1343669386
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_15
+      rect:
+        serializedVersion: 2
+        x: 383
+        y: 442
+        width: 24
+        height: 10
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 137ac589efaefad4da1b0e2697e12e37
+      internalID: 728978171
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_16
+      rect:
+        serializedVersion: 2
+        x: 408
+        y: 442
+        width: 62
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 937082ee483af1a479ed85741b366f1b
+      internalID: -814488445
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_17
+      rect:
+        serializedVersion: 2
+        x: 471
+        y: 442
+        width: 55
+        height: 39
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 40d76dd17129d814ba62e1fa1b3ded10
+      internalID: 952992077
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_18
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 442
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b177b44dde299d84682e65a89a5c293d
+      internalID: -1305914827
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_19
+      rect:
+        serializedVersion: 2
+        x: 833
+        y: 442
+        width: 37
+        height: 36
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 162221faf4e827846a8d4a480e880278
+      internalID: -396563060
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_20
+      rect:
+        serializedVersion: 2
+        x: 871
+        y: 442
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 958c23c1b517a6041b83309bc7cf8b3c
+      internalID: 752452855
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_21
+      rect:
+        serializedVersion: 2
+        x: 533
+        y: 419
+        width: 136
+        height: 15
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7f46a50f3280dd549867fd1cd1e250af
+      internalID: -2086659824
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_22
+      rect:
+        serializedVersion: 2
+        x: 776
+        y: 425
+        width: 193
+        height: 16
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 16014184eb81ffc44ab43e8e6c9fb4bb
+      internalID: 492136497
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_23
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 318
+        width: 360
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 466ae8a91c6472c41836f9e5ead5f9ce
+      internalID: 485705022
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_24
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 318
+        width: 360
+        height: 86
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: d344db182c22f4e45a5961dc3f0f2b77
+      internalID: 1966921857
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_25
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 318
+        width: 360
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a88a21efef2eb824d9386dc81ad23ad5
+      internalID: -567838916
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_26
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 253
+        width: 40
+        height: 41
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4a699fe564f6b764a8ba9fa06ec00d05
+      internalID: -1601530618
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_27
+      rect:
+        serializedVersion: 2
+        x: 73
+        y: 253
+        width: 26
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 4e7026d740cfe7942b8133f9a0b31a69
+      internalID: -626097552
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_28
+      rect:
+        serializedVersion: 2
+        x: 99
+        y: 253
+        width: 64
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: fb00f8e104fe7334297e486eb1f78ab1
+      internalID: -2074563430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_29
+      rect:
+        serializedVersion: 2
+        x: 164
+        y: 253
+        width: 37
+        height: 37
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: a16aae3af212cfd468b787f5d22994c9
+      internalID: -618460034
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_30
+      rect:
+        serializedVersion: 2
+        x: 202
+        y: 253
+        width: 43
+        height: 63
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 626ad56c9ce702049b0f95890ae8d116
+      internalID: 723157114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_31
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 253
+        width: 34
+        height: 34
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6147be6bb6ced4042a819b62a8eec580
+      internalID: -1083448131
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_32
+      rect:
+        serializedVersion: 2
+        x: 430
+        y: 253
+        width: 48
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: c09c0ce78e753694b85106a92a72072e
+      internalID: 556199297
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_33
+      rect:
+        serializedVersion: 2
+        x: 479
+        y: 253
+        width: 64
+        height: 48
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 98378c269b08c7a4ba1ab93067803e4e
+      internalID: -1012676227
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_34
+      rect:
+        serializedVersion: 2
+        x: 544
+        y: 253
+        width: 39
+        height: 64
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 372cb75dd6c344945afc6a0f150c813d
+      internalID: -946105158
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_35
+      rect:
+        serializedVersion: 2
+        x: 584
+        y: 253
+        width: 64
+        height: 60
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 954f3a55650cefe44a5c6344b49aadf6
+      internalID: -584893124
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_36
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 239
+        width: 56
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 350fa9eedc7e9664fafadd9bc38ae2bc
+      internalID: 1090020933
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_37
+      rect:
+        serializedVersion: 2
+        x: 815
+        y: 239
+        width: 57
+        height: 62
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 35b3ddbd3be890b41ad30a1546feb760
+      internalID: -1101553035
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_38
+      rect:
+        serializedVersion: 2
+        x: 873
+        y: 239
+        width: 64
+        height: 47
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: cc1c41d1e0935684db2daa2be69a6140
+      internalID: 1675143749
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_39
+      rect:
+        serializedVersion: 2
+        x: 938
+        y: 239
+        width: 48
+        height: 57
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 1ab10b86ea4bdcf48914e633e711fc6d
+      internalID: -1028079667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_40
+      rect:
+        serializedVersion: 2
+        x: 987
+        y: 239
+        width: 64
+        height: 58
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7b820c65b0bed42468ae74b797541ebc
+      internalID: 1485909751
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_41
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 238
+        width: 335
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7e841dd8f7da355479299ee1fafb7518
+      internalID: 1612195240
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_42
+      rect:
+        serializedVersion: 2
+        x: 395
+        y: 238
+        width: 335
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 9e3f0daa1cc2abe438f91cc8d383b8bb
+      internalID: -1492793114
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_43
+      rect:
+        serializedVersion: 2
+        x: 758
+        y: 224
+        width: 335
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 046f09ade2c323440b6ccc3abc1e27cc
+      internalID: 322763301
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_44
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 141
+        width: 240
+        height: 96
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 88620f7221fd47c4992897fd1e81ab81
+      internalID: 2114084430
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_45
+      rect:
+        serializedVersion: 2
+        x: 275
+        y: 75
+        width: 240
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 7104023dc16b26a4f9066184a43dd5dd
+      internalID: 1991560462
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_46
+      rect:
+        serializedVersion: 2
+        x: 518
+        y: 63
+        width: 256
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 6550327e60741064bbe3987e213fefb4
+      internalID: -931254667
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_47
+      rect:
+        serializedVersion: 2
+        x: 777
+        y: 63
+        width: 239
+        height: 160
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 881a29cbf6ac9924f99e690101fcbb8b
+      internalID: 75551204
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_48
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 60
+        width: 63
+        height: 80
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: 99726a71ad214fd4f99363e07712a1df
+      internalID: 42946283
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    - serializedVersion: 2
+      name: enviro(nobck)_49
+      rect:
+        serializedVersion: 2
+        x: 32
+        y: 45
+        width: 79
+        height: 14
+      alignment: 0
+      pivot: {x: 0, y: 0}
+      border: {x: 0, y: 0, z: 0, w: 0}
+      customData: 
+      outline: []
+      physicsShape: []
+      tessellationDetail: 0
+      bones: []
+      spriteID: b5b64b2027ddd0f40aaad2e2675addfa
+      internalID: 1610774371
+      vertices: []
+      indices: 
+      edges: []
+      weights: []
+    outline: []
+    customData: 
+    physicsShape: []
+    bones: []
+    spriteID: f06bc8fc698504a48a2f010fc6bb4561
+    internalID: 0
+    vertices: []
+    indices: 
+    edges: []
+    weights: []
+    secondaryTextures: []
+    spriteCustomMetadata:
+      entries: []
+    nameFileIdTable:
+      enviro(nobck)_0: -1113604655
+      enviro(nobck)_1: 194569086
+      enviro(nobck)_10: -980350659
+      enviro(nobck)_11: 1707272214
+      enviro(nobck)_12: -1578441074
+      enviro(nobck)_13: 697026878
+      enviro(nobck)_14: -1343669386
+      enviro(nobck)_15: 728978171
+      enviro(nobck)_16: -814488445
+      enviro(nobck)_17: 952992077
+      enviro(nobck)_18: -1305914827
+      enviro(nobck)_19: -396563060
+      enviro(nobck)_2: -769608378
+      enviro(nobck)_20: 752452855
+      enviro(nobck)_21: -2086659824
+      enviro(nobck)_22: 492136497
+      enviro(nobck)_23: 485705022
+      enviro(nobck)_24: 1966921857
+      enviro(nobck)_25: -567838916
+      enviro(nobck)_26: -1601530618
+      enviro(nobck)_27: -626097552
+      enviro(nobck)_28: -2074563430
+      enviro(nobck)_29: -618460034
+      enviro(nobck)_3: -962699842
+      enviro(nobck)_30: 723157114
+      enviro(nobck)_31: -1083448131
+      enviro(nobck)_32: 556199297
+      enviro(nobck)_33: -1012676227
+      enviro(nobck)_34: -946105158
+      enviro(nobck)_35: -584893124
+      enviro(nobck)_36: 1090020933
+      enviro(nobck)_37: -1101553035
+      enviro(nobck)_38: 1675143749
+      enviro(nobck)_39: -1028079667
+      enviro(nobck)_4: -561013027
+      enviro(nobck)_40: 1485909751
+      enviro(nobck)_41: 1612195240
+      enviro(nobck)_42: -1492793114
+      enviro(nobck)_43: 322763301
+      enviro(nobck)_44: 2114084430
+      enviro(nobck)_45: 1991560462
+      enviro(nobck)_46: -931254667
+      enviro(nobck)_47: 75551204
+      enviro(nobck)_48: 42946283
+      enviro(nobck)_49: 1610774371
+      enviro(nobck)_5: 52203563
+      enviro(nobck)_6: -460319120
+      enviro(nobck)_7: -137277436
+      enviro(nobck)_8: 1426271683
+      enviro(nobck)_9: -1673938161
+  mipmapLimitGroupName: 
+  pSDRemoveMatte: 0
+  userData: 
+  assetBundleName: 
+  assetBundleVariant: 
